@@ -142,12 +142,15 @@ h6 {
     width: 70px;
     padding: 10px 0;
     margin: 10px 8px;
+    
   }
 
   #header .countdown div h3 {
     font-size: 28px;
     margin-bottom: 10px;
+  
   }
+  
 
   #header .countdown div h4 {
     font-size: 14px;
@@ -425,7 +428,9 @@ h6 {
 @media (max-width: 991px) {
   .mobile-nav-toggle {
     display: block;
+   
   }
+ 
 
   .navbar ul {
     display: none;
